@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 😄 He/Him
+- 🌱 I'm currently learning Python, C++
+- 🔭 Interested in Programming, Game Design, and Cloud Computing
 <!--
 **Syrn0/Syrn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
