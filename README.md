@@ -1,5 +1,5 @@
-## Hi there 👋
-- 😄 He/Him
+## Hello fellow warriors/programmers! 👋
+- 😄 New to GitHub
 - 🌱 I'm currently learning Python, C++
 - 🔭 Interested in Programming, Game Design, and Cloud Computing
 <!--
